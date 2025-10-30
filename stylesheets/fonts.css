@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "OldStandardTT";
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype"),
+    url("../fonts/OldStandardTT-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "OldStandardTT";
+  src: url("../fonts/OldStandardTT-Italic.ttf") format("truetype"),
+    url("../fonts/OldStandardTT-Italic.woff") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "OldStandardTT";
+  src: url("../fonts/OldStandardTT-Regular.ttf") format("truetype"),
+    url("../fonts/OldStandardTT-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}

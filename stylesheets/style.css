@@ -1,0 +1,20 @@
+@import "reset.css";
+@import "fonts.css";
+@import "layout.css";
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+.section-2 b,
+.section-45 b {
+  font-weight: bold;
+}
+
+.section-2 i,
+.section-45 i {
+  font-style: italic;
+}
